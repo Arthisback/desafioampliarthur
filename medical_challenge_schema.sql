@@ -184,4 +184,3 @@ INSERT INTO `MedicalChallenge`.`agendamentos` (`id`, `id_paciente`, `id_profissi
 INSERT INTO `MedicalChallenge`.`agendamentos` (`id`, `id_paciente`, `id_profissional`, `dh_inicio`, `dh_fim`, `id_convenio`, `id_procedimento`, `observacoes`) VALUES (3, 3, 85218, '2021-06-01 14:30:00', '2021-06-01 14:45:00', 4, 3, 'Acompanhamento de rotina.');
 
 COMMIT;
-
